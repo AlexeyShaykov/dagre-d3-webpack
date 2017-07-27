@@ -1,6 +1,6 @@
 {
-  "name": "dagre-d3",
-  "version": "0.4.18-pre",
+  "name": "dagre-d3-webpack",
+  "version": "0.4.17",
   "description": "A D3-based renderer for Dagre",
   "author": "Chris Pettitt <chris@samsarin.com>",
   "keywords": [
@@ -51,7 +51,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cpettitt/dagre-d3.git"
+    "url": "https://github.com/trampi/dagre-d3-webpack.git"
   },
   "license": "MIT"
 }

@@ -1,4 +1,6 @@
-# dagre-d3 - A D3-based renderer for dagre
+# dagre-d3-webpack - A D3-based renderer for dagre
+
+*This fork is just dagre-d3@0.4.17 with fixed `require`-calls to play nicely along with webpack*
 
 [Dagre](https://github.com/cpettitt/dagre) is a JavaScript library that makes it easy to lay out directed graphs on
 the client-side. The dagre-d3 library acts as a front-end to dagre, providing
